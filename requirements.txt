@@ -1,0 +1,15 @@
+torch
+numpy
+soundfile
+librosa
+rotary_embedding_torch
+einops
+torch_log_wmse
+ml_collections
+beartype
+mir_eval
+tabulate
+demucs
+openunmix
+# Specific version pinning for stability
+torchaudio<2.5

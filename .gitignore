@@ -1,0 +1,8 @@
+__pycache__/
+*.pt
+*.wav
+*.zip
+dataset_unzipped/
+dataset_ready/
+wandb/
+.env
